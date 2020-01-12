@@ -1,0 +1,10 @@
+D:\Git\WinForms_Questionnaire\Questionnaire\Questionnaire\bin\Debug\Questionnaire.exe.config
+D:\Git\WinForms_Questionnaire\Questionnaire\Questionnaire\bin\Debug\Questionnaire.exe
+D:\Git\WinForms_Questionnaire\Questionnaire\Questionnaire\bin\Debug\Questionnaire.pdb
+D:\Git\WinForms_Questionnaire\Questionnaire\Questionnaire\obj\Debug\Questionnaire.csprojAssemblyReference.cache
+D:\Git\WinForms_Questionnaire\Questionnaire\Questionnaire\obj\Debug\Questionnaire.Form1.resources
+D:\Git\WinForms_Questionnaire\Questionnaire\Questionnaire\obj\Debug\Questionnaire.Properties.Resources.resources
+D:\Git\WinForms_Questionnaire\Questionnaire\Questionnaire\obj\Debug\Questionnaire.csproj.GenerateResource.cache
+D:\Git\WinForms_Questionnaire\Questionnaire\Questionnaire\obj\Debug\Questionnaire.csproj.CoreCompileInputs.cache
+D:\Git\WinForms_Questionnaire\Questionnaire\Questionnaire\obj\Debug\Questionnaire.exe
+D:\Git\WinForms_Questionnaire\Questionnaire\Questionnaire\obj\Debug\Questionnaire.pdb
